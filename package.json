@@ -1,0 +1,11 @@
+{
+  "name": "mimiza-cloud-functions",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/mimiza/mimiza-cloud-functions.git",
+  "author": "MIMIZA <dev@mimiza.com>",
+  "license": "MIT",
+  "dependencies": {
+    "gun": "^0.2020.520"
+  }
+}
